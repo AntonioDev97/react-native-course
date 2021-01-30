@@ -1,0 +1,3 @@
+
+# Ignore folders and files to avoid upload to repository
+node_modules/
